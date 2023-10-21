@@ -34,6 +34,7 @@
 - [David Porto](https://github.com/davidaleth)
 - [sandar](https://github.com/sandar00)
 - [santosh upadhyaya](https://github.com/santosh-786)
+- [king of the jungle]
 - [Faisal Amin](https://github.com/faisalamin001)
 - [Simon-Raviz](https://github.com/Simon-Rabich)
 - [Jorer-jonas](https://github.com/Jorer-jonas)
